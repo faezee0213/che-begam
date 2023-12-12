@@ -18,4 +18,6 @@ cd snarkOS
 ./build_ubuntu.sh
 Luck
 
-cargo install --path .
+cargo install --path
+
+The End
